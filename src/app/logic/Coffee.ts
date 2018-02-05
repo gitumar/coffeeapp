@@ -1,6 +1,6 @@
 class Coffee{
 
-    //Properties Here
+    //Properties
    
     type: string;
     rating: number;
